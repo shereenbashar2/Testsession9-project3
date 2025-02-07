@@ -5,6 +5,7 @@ function greet() {
 
  console.log("Hello, main");
 
+
 console.log("Hello, feature/product");
 
 greet();
